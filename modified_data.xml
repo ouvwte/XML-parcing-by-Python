@@ -1,0 +1,18 @@
+<data>
+    <Cell StyleID="s61"><Data Type="String">Модель</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Тип.№</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Суф.</Data></Cell>
+    <Cell StyleID="s64"><Data Type="String">Зах.</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Потребитель</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Наименование дет.</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Цена</Data></Cell>
+    <Cell StyleID="s62"><Data Type="String">План мес.</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Сут.темп</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Сдано за сутки</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Д.б. сдано с нач. мес.</Data></Cell>
+    <Cell StyleID="s62"><Data Type="String">Сдано с нач. мес.</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Рез-т</Data></Cell>
+    <Cell StyleID="s62"><Data Type="String">Сдать до плана</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Маршрут</Data></Cell>
+    <Cell StyleID="s61"><Data Type="String">Металл</Data></Cell>
+</data>

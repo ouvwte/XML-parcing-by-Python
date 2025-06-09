@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+    <Cell StyleID="s61"><Data Type="String">Модель</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Тип.№</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Суф.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s64"><Data Type="String">Зах.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Потребитель</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Наименование дет.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Цена</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s62"><Data Type="String">План мес.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Сут.темп</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Сдано за сутки</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Д.б. сдано с нач. мес.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s62"><Data Type="String">Сдано с нач. мес.</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Рез-т</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s62"><Data Type="String">Сдать до плана</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Маршрут</Data><NamedCell Name="_FilterDatabase"/></Cell>
+    <Cell StyleID="s61"><Data Type="String">Металл</Data><NamedCell Name="_FilterDatabase"/></Cell>
+</data>

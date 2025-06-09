@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Модель</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Тип.№</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Суф.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Зах.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Потребитель</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Наименование дет.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Цена</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">План мес.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Сут.темп</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Сдано за сутки</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Д.б. сдано с нач. мес.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Сдано с нач. мес.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Рез-т</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Сдать до плана</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Маршрут</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Металл</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+</data>

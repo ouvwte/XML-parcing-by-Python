@@ -1,0 +1,25 @@
+<Cell ss:StyleID="s61"><Data ss:Type="String">Цех изгот.</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Цех потребит.</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Модель</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Номер</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Суф.</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Зах.</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Ном. номер</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Наименование</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Цена</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">План на м-ц</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Сут. темп(шт)</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Д/б сдано(шт)</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">План (руб.) на м-ц</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Сут. темп(руб.)</Data></Cell>
+<Cell ss:StyleID="s62"><Data ss:Type="String">Д/б сдано(руб.)</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Cдано(шт.) за сутки</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Cдано(руб.) за сутки</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Cдано(шт.) с нач. м-ца</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">В т.ч. Вернул потребитель</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">В т.ч. Отправлено на замену</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Итого получил потребитель(шт.)</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Итого получил потреб. (руб.)</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">+/-</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String">Сдать до плана</Data></Cell>
+<Cell ss:StyleID="s61"><Data ss:Type="String"></Data></Cell>
