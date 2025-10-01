@@ -1,10 +1,7 @@
 import xml.etree.ElementTree as ET
+import re
 
 def extract_styles_fixed(input_file, output_file, target_styles):
-    """
-    Извлекает указанные стили из XML файла с правильной обработкой структуры
-    """
-    
     try:
         # Читаем файл как текст и добавляем XML декларацию если нужно
         with open(input_file, 'r', encoding='utf-8') as f:
@@ -89,9 +86,6 @@ def extract_styles_fixed(input_file, output_file, target_styles):
         print(f"Произошла ошибка: {e}")
 
 def format_xml(xml_str):
-    """
-    Простое форматирование XML для читаемости
-    """
     import re
     # Добавляем переносы после тегов
     xml_str = re.sub(r'>\s*<', '>\n<', xml_str)
@@ -119,9 +113,6 @@ def format_xml(xml_str):
     return '\n'.join(formatted_lines)
 
 def extract_styles_simple(input_file, output_file, target_styles):
-    """
-    Альтернативный метод с использованием регулярных выражений
-    """
     print("Используем упрощенный метод с регулярными выражениями...")
     
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -157,11 +148,11 @@ def extract_styles_simple(input_file, output_file, target_styles):
 # Основная часть скрипта
 if __name__ == "__main__":
     # Укажите пути к файлам
-    input_file = "styles.xml"  # путь к вашему исходному файлу
-    output_file = "selected_styles.xml"  # путь для сохранения результата
+    input_file = "C:/Users/BrunovDD/Desktop/py/Парсим XML через Python/XML_Parcing/case_2/data/styles.xml"  # путь к вашему исходному файлу
+    output_file = "C:/Users/BrunovDD/Desktop/py/Парсим XML через Python/XML_Parcing/case_2/result/styles_itog.xml"  # путь для сохранения результата
     
     # Список стилей для извлечения
-    target_styles = ["s79", "s80", "s83"]
+    target_styles = ["m461349208", "s79", "s80", "s83", "s84", "m461347300", "s70", "s71", "s47", "s48", "s39", "s64", "s152", "m461347280"]
     
     # Запускаем извлечение
     extract_styles_fixed(input_file, output_file, target_styles)
